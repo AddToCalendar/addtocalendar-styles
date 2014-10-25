@@ -1,4 +1,4 @@
-addtocalendar-styles
+AddToCalendar styles library
 ====================
 
-Styles library for AddToCalendar - free customizable JavaScript widget "Add to Calendar" for event page. Learn more: http://addtocalendar.com
+Any folder contains CSS file, resources and demo.html. Feel free add your own styles with pull request.
